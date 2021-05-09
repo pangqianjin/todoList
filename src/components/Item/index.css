@@ -1,0 +1,18 @@
+.item{
+    height: max-content;
+    border-style: solid;
+    border-width: 1px;
+    /* 解决边框重叠 */
+    margin-bottom: -1px;
+    margin-top: -1px;
+    display: flex;
+}
+
+.item-name{
+    width: 320px;
+}
+
+.item-delete-btn{
+    padding: 0;
+    margin: 0;
+}

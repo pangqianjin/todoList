@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    margin: 10px;
+}
+
+.footer-btn{
+    margin: 0 0 0 10em;
+    background-color:salmon;
+    color: white;
+}
